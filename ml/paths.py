@@ -17,3 +17,8 @@ PHIUSIIL_CLEAN = PROCESSED_DIR / "phiusiil_clean.csv"
 
 # Extracted features dataset
 PHIUSIIL_FEATURES = PROCESSED_DIR / "phiusiil_features.csv"
+
+# Split datasets
+TRAIN_DATA = PROCESSED_DIR / "train.csv"
+VALIDATION_DATA = PROCESSED_DIR / "validation.csv"
+TEST_DATA = PROCESSED_DIR / "test.csv"
