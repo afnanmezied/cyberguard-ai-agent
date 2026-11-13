@@ -22,3 +22,6 @@ PHIUSIIL_FEATURES = PROCESSED_DIR / "phiusiil_features.csv"
 TRAIN_DATA = PROCESSED_DIR / "train.csv"
 VALIDATION_DATA = PROCESSED_DIR / "validation.csv"
 TEST_DATA = PROCESSED_DIR / "test.csv"
+
+# Trained Random Forest model
+RANDOM_FOREST_MODEL = BASE_DIR / "models" / "random_forest" / "random_forest.joblib"
